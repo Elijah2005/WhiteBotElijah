@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:4:33-66
+	android:versionName
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:4:7-32
+		INJECTED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml
+		INJECTED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:3:7-30
+		INJECTED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml
+		INJECTED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:5:5-43
+	android:minSdkVersion
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:5:15-40
+uses-permission#android.permission.INTERNET
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:8:5-16:19
+	android:label
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:8:62-94
+	android:icon
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:8:18-61
+activity#org.jointheleague.iaroc.Dashboard
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:9:9-14:20
+	android:label
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:9:52-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /Users/league/Desktop/WhiteBot2016/AndroidManifest.xml:12:27-74

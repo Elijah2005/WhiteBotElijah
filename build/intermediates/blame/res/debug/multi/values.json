@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/league/Desktop/WhiteBot2016/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 73,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 73,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 44,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 58,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 58,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 75,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 75,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 83,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 83,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 79,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 79,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 34,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "/Users/league/Desktop/WhiteBot2016/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 34,
+                        "endOffset": 551
+                    }
+                }
+            }
+        ]
+    }
+]
